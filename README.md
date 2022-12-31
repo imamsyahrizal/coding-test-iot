@@ -2,7 +2,7 @@
 
 ## Task 1 - Salary Conversion
 The Python code for task 1 was created on Google Collaboratory. JSON file is stored in Google Drive. The exchange rate is obtained from https://api.frankfurter.app/  
-Library used in this code : 
+### Library used in this code : 
 1. Pandas will be used to process the data frame. 
 2. Requests for the current exchange rate. 
 3. Phonenumber to phone number cleaning format.  
