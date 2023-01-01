@@ -81,4 +81,4 @@ while True:
         HMax.metric(label="Hum Max : ", value=dfHumNew['Max'].iloc[-1])
         HMed.metric(label="Hum Mad : ", value=dfHumNew['Med'].iloc[-1])
         HMean.metric(label="Hum Mean : ", value=dfHumNew['Mean'].iloc[-1])
-    time.sleep(1)
+    time.sleep(2)
