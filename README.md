@@ -1,4 +1,4 @@
-# IoT Application Developer Tech Test – Imam Syahrizal”
+# IoT Application Developer Tech Test – Imam Syahrizal
 
 ## Task 1 - Salary Conversion
 The Python code for task 1 was created on Google Collaboratory. JSON file is stored in Google Drive. The exchange rate is obtained from https://api.frankfurter.app/  
@@ -33,3 +33,4 @@ The data in this project is organized by room area and every 15 seconds (rather 
 Not fully finished, no button, and only displays real-time data. This program cannot generate a JSON file because there is no button. 
 ### Simulate
 To simulate this app is install all library requirement.txt and type streamline run Task3.py. 
+![plot](Task3.png)
