@@ -1,4 +1,4 @@
-# coding-test-iot
+# IoT Application Developer Tech Test – Imam Syahrizal”
 
 ## Task 1 - Salary Conversion
 The Python code for task 1 was created on Google Collaboratory. JSON file is stored in Google Drive. The exchange rate is obtained from https://api.frankfurter.app/  
