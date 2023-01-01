@@ -32,5 +32,6 @@ Web based application made by Streamline Python.
 The data in this project is organized by room area and every 15 seconds (rather than by day to show when it is simulated).  
 Not fully finished, no button, and only displays real-time data. This program cannot generate a JSON file because there is no button. 
 ### Simulate
-To simulate this app is install all library requirement.txt and type streamline run Task3.py. 
-![plot](Task3.png)
+To simulate this app is install all library requirement.txt and type streamline run Task3.py.  
+[![Watch the video](Task3.png)]([https://youtu.be/T-D1KVIuvjA](https://drive.google.com/file/d/1kMiTe0GE0PwsBzELcU7mMKe33QPfxsFu/view?usp=sharing))
+Link Video : https://drive.google.com/file/d/1kMiTe0GE0PwsBzELcU7mMKe33QPfxsFu/view?usp=sharing 
